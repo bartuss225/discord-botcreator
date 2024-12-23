@@ -1,4 +1,3 @@
-# discord-botcreator
-A program writen in python to generate basic discord bot code.
-if found any errors please report.
+# discord-bot creator
+A program is written in Python to generate basic discord bot code. If found any errors please report them.
 python required
